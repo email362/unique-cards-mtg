@@ -1,3 +1,13 @@
+// ******************* Steps *****************************
+// Goal: Create a program that reads a txt file of cards
+// then removes the duplicate card names, and prints out
+// the remaining unique cards in a new txt file formatted
+// with a 1 in front of each card name, with only 1 card 
+// on each line of the txt file
+// -------------------------------------------------------
+// 1: Read initial text file list
+// 2: Remove duplicate names
+// 3: Write remaining names on new text file list
 const fs = require('fs')
 const readline = require('readline')
 
