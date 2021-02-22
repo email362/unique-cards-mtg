@@ -1,0 +1,20 @@
+{
+  "name": "unique-cards-mtg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/email362/unique-cards-mtg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/email362/unique-cards-mtg/issues"
+  },
+  "homepage": "https://github.com/email362/unique-cards-mtg#readme",
+  "type": "module"
+}
